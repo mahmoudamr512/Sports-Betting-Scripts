@@ -10786,3 +10786,117 @@ JavaScript warning: https://sportsbook.draftkings.com/D84mk7tyc2uWx7_-da12/iu7SX
 JavaScript warning: https://sportsbook.draftkings.com/D84mk7tyc2uWx7_-da12/iu7SXmS0EJEO/RkQCTFVf/e1MhMk/1iBS8B, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.draftkings.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1665902916457	geckodriver	INFO	Listening on 127.0.0.1:55799
+1665902919534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "55800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileS4kP7E"
+1665902920116	Marionette	INFO	Marionette enabled
+1665902920121	Marionette	INFO	Listening on port 55809
+Read port: 55809
+WebDriver BiDi listening on ws://127.0.0.1:55800
+1665902920269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileS4kP7E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55800/devtools/browser/996bfdb9-e113-49cb-9633-2d0a6b26c9d3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1665902985955	Marionette	INFO	Stopped listening on port 55809
+[Parent 13820, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1665903159451	geckodriver	INFO	Listening on 127.0.0.1:56468
+1665903162510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "56469" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilefU9LdS"
+1665903162819	Marionette	INFO	Marionette enabled
+1665903162823	Marionette	INFO	Listening on port 56478
+Read port: 56478
+WebDriver BiDi listening on ws://127.0.0.1:56469
+1665903162913	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilefU9LdS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56469/devtools/browser/110a2a72-ad96-4e9d-a6e2-aa5a23c03112
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1665903235556	geckodriver	INFO	Listening on 127.0.0.1:56929
+1665903238621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "56930" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileOK1wxY"
+1665903238919	Marionette	INFO	Marionette enabled
+1665903238923	Marionette	INFO	Listening on port 56939
+Read port: 56939
+WebDriver BiDi listening on ws://127.0.0.1:56930
+1665903239018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileOK1wxY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56930/devtools/browser/a0ddbdcf-4831-40b2-a7ab-dcc93354ff61
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1665903294649	geckodriver	INFO	Listening on 127.0.0.1:57363
+1665903297703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "57364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileyWanQa"
+1665903297998	Marionette	INFO	Marionette enabled
+1665903298002	Marionette	INFO	Listening on port 57373
+Read port: 57373
+WebDriver BiDi listening on ws://127.0.0.1:57364
+1665903298089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileyWanQa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57364/devtools/browser/b24af738-2b09-48ad-a0bf-1b44a4786687
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1665903430427	geckodriver	INFO	Listening on 127.0.0.1:57824
+1665903433494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "57825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilevcv96Z"
+1665903433805	Marionette	INFO	Marionette enabled
+1665903433810	Marionette	INFO	Listening on port 57834
+Read port: 57834
+WebDriver BiDi listening on ws://127.0.0.1:57825
+1665903433903	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilevcv96Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57825/devtools/browser/e2aa2d45-2e68-4cd1-b516-eeaa1ccd8357
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1665903493251	geckodriver	INFO	Listening on 127.0.0.1:58267
+1665903496274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "58268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilew3W3J3"
+1665903496626	Marionette	INFO	Marionette enabled
+1665903496630	Marionette	INFO	Listening on port 58277
+WebDriver BiDi listening on ws://127.0.0.1:58268
+Read port: 58277
+1665903496875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilew3W3J3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58268/devtools/browser/26a8ffe6-f332-4a78-af0f-d643eb1aa20e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1665903564877	geckodriver	INFO	Listening on 127.0.0.1:58726
+1665903567946	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "58727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileej8VC9"
+1665903568251	Marionette	INFO	Marionette enabled
+1665903568255	Marionette	INFO	Listening on port 58736
+Read port: 58736
+WebDriver BiDi listening on ws://127.0.0.1:58727
+1665903568343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileej8VC9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58727/devtools/browser/d9103f1a-83e5-4484-9094-41c9008d86c2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1665903643389	geckodriver	INFO	Listening on 127.0.0.1:59137
+1665903646454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "59138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileOQqffy"
+1665903646749	Marionette	INFO	Marionette enabled
+1665903646753	Marionette	INFO	Listening on port 59148
+Read port: 59148
+WebDriver BiDi listening on ws://127.0.0.1:59138
+1665903646845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileOQqffy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59138/devtools/browser/1bd8d74c-4a87-443d-b841-59da0f23754b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1665903720918	geckodriver	INFO	Listening on 127.0.0.1:59553
+1665903723978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "59554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileoWZFsq"
+1665903724284	Marionette	INFO	Marionette enabled
+1665903724288	Marionette	INFO	Listening on port 59564
+Read port: 59564
+WebDriver BiDi listening on ws://127.0.0.1:59554
+1665903724376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileoWZFsq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59554/devtools/browser/b666d9e7-f19f-4fbf-963f-3cfeb3c3fa4e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1665903783840	geckodriver	INFO	Listening on 127.0.0.1:59975
+1665903786924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "59976" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilex70zSe"
+1665903787220	Marionette	INFO	Marionette enabled
+1665903787224	Marionette	INFO	Listening on port 59989
+Read port: 59989
+WebDriver BiDi listening on ws://127.0.0.1:59976
+1665903787311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilex70zSe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59976/devtools/browser/5ce75713-3cfd-4d54-acd0-3acbb840c463
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."

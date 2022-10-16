@@ -144,6 +144,9 @@ class NFLScraper(webdriver.Firefox):
                     print(f"-----------------Scraping {headerSpan.text}-----------------------")
                     self.execute_script("arguments[0].scrollIntoView(true);", div)
                     time.sleep(0.25)
+                    arrow =  div.find_element(By.CSS_SELECTOR, 'span.expanderHeaderRight')
+                    self.execute_script("arguments[0].click();", arrow)
+                    time.sleep(0.25)
 
                     teamsFlag = False
 
@@ -192,7 +195,7 @@ class NFLScraper(webdriver.Firefox):
                             self.playersStats.append(player)
                             print(player)
 
-            except Exception:
+            except Exception as ex:
                 pass
 
 
