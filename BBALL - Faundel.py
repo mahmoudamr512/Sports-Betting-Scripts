@@ -66,8 +66,7 @@ class NBAScraper(webdriver.Firefox):
         """
             Get all game links
         """
-        gameEvents = WebDriverWait(self, 30).until(ec.presence_of_all_elements_located((By.XPATH, '//*[@id="root"]/div/div[2]/div[1]/div[2]/div[1]/div/div/div/div[2]/div/div')))
-
+        gameEvents = WebDriverWait(self, 30).until(ec.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.if.aj.s.h.i.j.ak.l.m.al.o.am.q.an')))
         for game in gameEvents:
             try:
                 self.gameLinks.append(

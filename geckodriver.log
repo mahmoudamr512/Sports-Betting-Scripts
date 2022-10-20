@@ -10900,3 +10900,724 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 DevTools listening on ws://127.0.0.1:59976/devtools/browser/5ce75713-3cfd-4d54-acd0-3acbb840c463
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sportsbook.caesars.com."
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666050836929	geckodriver	INFO	Listening on 127.0.0.1:64789
+1666050840046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileVdbuRH"
+1666050840584	Marionette	INFO	Marionette enabled
+1666050840589	Marionette	INFO	Listening on port 64799
+WebDriver BiDi listening on ws://127.0.0.1:64790
+Read port: 64799
+1666050840875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileVdbuRH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64790/devtools/browser/abf8487e-42bb-490f-ac3d-16ce4e900b78
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mtairycasino.foxbet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666125893855	geckodriver	INFO	Listening on 127.0.0.1:57806
+1666125896965	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilex0Ddev"
+1666125897517	Marionette	INFO	Marionette enabled
+1666125897522	Marionette	INFO	Listening on port 57816
+WebDriver BiDi listening on ws://127.0.0.1:57807
+Read port: 57816
+1666125897787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilex0Ddev\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57807/devtools/browser/7e37ac25-f7a5-4cce-9252-1473d0a99d83
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mtairycasino.foxbet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript error: https://sports.mtairycasino.foxbet.com/js/app-1.40.41.js, line 2: Error: Syntax error, unrecognized expression: :nth-child
+1666125935996	Marionette	INFO	Stopped listening on port 57816
+[Parent 6584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666126842173	geckodriver	INFO	Listening on 127.0.0.1:53852
+1666126845275	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53853" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileLtr9qE"
+1666126845826	Marionette	INFO	Marionette enabled
+1666126845831	Marionette	INFO	Listening on port 53864
+WebDriver BiDi listening on ws://127.0.0.1:53853
+Read port: 53864
+1666126846055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileLtr9qE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53853/devtools/browser/99eb6c83-14f7-4df8-a84c-59c2883dfed8
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mtairycasino.foxbet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript error: https://sports.mtairycasino.foxbet.com/js/app-1.40.41.js, line 2: Error: Syntax error, unrecognized expression: :nth-child
+1666126867430	Marionette	INFO	Stopped listening on port 53864
+1666126973621	geckodriver	INFO	Listening on 127.0.0.1:54015
+1666126976698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54016" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileTTMAaY"
+1666126977014	Marionette	INFO	Marionette enabled
+1666126977018	Marionette	INFO	Listening on port 54027
+Read port: 54027
+WebDriver BiDi listening on ws://127.0.0.1:54016
+1666126977111	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileTTMAaY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54016/devtools/browser/8b4a5c7b-e9d2-4e5d-abc8-1d4034db191e
+1666126978827	Marionette	INFO	Stopped listening on port 54027
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666126987468	geckodriver	INFO	Listening on 127.0.0.1:54042
+1666126990534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54043" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileSvpRWz"
+1666126990849	Marionette	INFO	Marionette enabled
+1666126990853	Marionette	INFO	Listening on port 54055
+Read port: 54055
+WebDriver BiDi listening on ws://127.0.0.1:54043
+1666126990943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileSvpRWz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54043/devtools/browser/977fc7cc-21c3-49a3-993f-009478ec9f8f
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mtairycasino.foxbet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript error: https://sports.mtairycasino.foxbet.com/js/app-1.40.41.js, line 2: Error: Syntax error, unrecognized expression: :nth-child
+1666127012550	Marionette	INFO	Stopped listening on port 54055
+1666127045465	geckodriver	INFO	Listening on 127.0.0.1:54176
+1666127048543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54177" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile3R5Exh"
+1666127048860	Marionette	INFO	Marionette enabled
+1666127048864	Marionette	INFO	Listening on port 54188
+Read port: 54188
+WebDriver BiDi listening on ws://127.0.0.1:54177
+1666127048959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile3R5Exh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54177/devtools/browser/d01f6adf-b0cf-4a16-acb4-e4743b4d3ade
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+JavaScript warning: https://cashier.rationalcdn.com/starsweb/static/js/48/348.48f4a430.js, line 2: unreachable code after return statement
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://mtairycasino.foxbet.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript error: https://sports.mtairycasino.foxbet.com/js/app-1.40.41.js, line 2: Error: Syntax error, unrecognized expression: :nth-child
+1666127076474	Marionette	INFO	Stopped listening on port 54188
+1666127464764	geckodriver	INFO	Listening on 127.0.0.1:62220
+1666127467791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62221" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileaSdPfC"
+1666127468135	Marionette	INFO	Marionette enabled
+1666127468140	Marionette	INFO	Listening on port 62232
+WebDriver BiDi listening on ws://127.0.0.1:62221
+Read port: 62232
+1666127468376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileaSdPfC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62221/devtools/browser/857c3b81-b2e3-47ff-9831-8f3d4d14882a
+1666127512232	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666127590399	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666127601181	Marionette	INFO	Stopped listening on port 62232
+[Parent 30732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666127646134	geckodriver	INFO	Listening on 127.0.0.1:62369
+1666127649185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62370" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileGfn469"
+1666127649533	Marionette	INFO	Marionette enabled
+1666127649539	Marionette	INFO	Listening on port 62380
+Read port: 62380
+WebDriver BiDi listening on ws://127.0.0.1:62370
+1666127649687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileGfn469\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62370/devtools/browser/afcfc23d-cb5a-4170-86a9-37cd2dc139be
+1666127719038	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666127775033	Marionette	INFO	Stopped listening on port 62380
+[Parent 22080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1666128272021	geckodriver	INFO	Listening on 127.0.0.1:59191
+1666128275073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "59192" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile8TekDK"
+1666128275399	Marionette	INFO	Marionette enabled
+1666128275403	Marionette	INFO	Listening on port 59204
+WebDriver BiDi listening on ws://127.0.0.1:59192
+Read port: 59204
+1666128275640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile8TekDK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59192/devtools/browser/6649a554-f036-4658-9617-3ec237e0d2e5
+1666128339534	Marionette	INFO	Stopped listening on port 59204
+[Parent 20108, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 20108, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666128348056	geckodriver	INFO	Listening on 127.0.0.1:51528
+1666128351102	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "51529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileohL4Tp"
+1666128351497	Marionette	INFO	Marionette enabled
+1666128351501	Marionette	INFO	Listening on port 51542
+Read port: 51542
+WebDriver BiDi listening on ws://127.0.0.1:51529
+1666128351589	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileohL4Tp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51529/devtools/browser/58664ba9-d880-4677-a0f0-ffef17818d72
+1666128454281	Marionette	INFO	Stopped listening on port 51542
+[Parent 11364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666128481881	geckodriver	INFO	Listening on 127.0.0.1:51822
+1666128484921	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51823" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileZ0x3xD"
+1666128485273	Marionette	INFO	Marionette enabled
+1666128485277	Marionette	INFO	Listening on port 51857
+WebDriver BiDi listening on ws://127.0.0.1:51823
+Read port: 51857
+1666128485518	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileZ0x3xD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51823/devtools/browser/66b0f471-4717-4cbc-b514-4500f2c66f28
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666128582025	Marionette	INFO	Stopped listening on port 51857
+[Parent 26200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666128687472	geckodriver	INFO	Listening on 127.0.0.1:52363
+1666128690525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileCLndCj"
+1666128690846	Marionette	INFO	Marionette enabled
+1666128690850	Marionette	INFO	Listening on port 52378
+Read port: 52378
+WebDriver BiDi listening on ws://127.0.0.1:52364
+1666128690943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileCLndCj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52364/devtools/browser/fa257c8b-1246-4ace-854b-71dcda5c4d66
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666128771108	Marionette	INFO	Stopped listening on port 52378
+[Parent 37200, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666128851117	geckodriver	INFO	Listening on 127.0.0.1:52712
+1666128854166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile2Z8SnY"
+1666128854504	Marionette	INFO	Marionette enabled
+1666128854508	Marionette	INFO	Listening on port 52725
+WebDriver BiDi listening on ws://127.0.0.1:52713
+Read port: 52725
+1666128854761	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile2Z8SnY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52713/devtools/browser/f9a9e404-987c-4010-b6b4-6439b00b589b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3441: TypeError: data.frameData.id is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 594"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:594:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 594, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 594: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1666128938904	Marionette	INFO	Stopped listening on port 52725
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1666128971946	geckodriver	INFO	Listening on 127.0.0.1:53069
+1666128975025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53070" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile5tHVA0"
+1666128975444	Marionette	INFO	Marionette enabled
+1666128975448	Marionette	INFO	Listening on port 53084
+Read port: 53084
+WebDriver BiDi listening on ws://127.0.0.1:53070
+1666128975542	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile5tHVA0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53070/devtools/browser/59d80fea-7de4-403c-a016-c0fdc850f798
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666129028012	Marionette	INFO	Stopped listening on port 53084
+[Parent 36428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666129212747	geckodriver	INFO	Listening on 127.0.0.1:53514
+1666129215786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileebin9N"
+1666129216104	Marionette	INFO	Marionette enabled
+1666129216108	Marionette	INFO	Listening on port 53526
+Read port: 53526
+WebDriver BiDi listening on ws://127.0.0.1:53515
+1666129216203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileebin9N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53515/devtools/browser/c4d401e4-7439-49c9-85cc-0c242e38c76a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666129332393	geckodriver	INFO	Listening on 127.0.0.1:53829
+1666129335436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53830" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilergYFL0"
+1666129335776	Marionette	INFO	Marionette enabled
+1666129335779	Marionette	INFO	Listening on port 53843
+WebDriver BiDi listening on ws://127.0.0.1:53830
+Read port: 53843
+1666129336018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilergYFL0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53830/devtools/browser/ba505444-15f9-409b-b4ed-dd0837bc6ce5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666129416127	Marionette	INFO	Stopped listening on port 53843
+[Parent 27140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 27140, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666129450412	geckodriver	INFO	Listening on 127.0.0.1:54127
+1666129453479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54128" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilePiQTIi"
+1666129453813	Marionette	INFO	Marionette enabled
+1666129453817	Marionette	INFO	Listening on port 54141
+WebDriver BiDi listening on ws://127.0.0.1:54128
+Read port: 54141
+1666129454053	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilePiQTIi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54128/devtools/browser/ec206590-48b4-4ed4-8cf7-47ae387f90cc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666129534462	Marionette	INFO	Stopped listening on port 54141
+[Parent 37600, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666129584110	geckodriver	INFO	Listening on 127.0.0.1:54445
+1666129592288	geckodriver	INFO	Listening on 127.0.0.1:54457
+1666129595356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileP0c2Xh"
+1666129595778	Marionette	INFO	Marionette enabled
+1666129595782	Marionette	INFO	Listening on port 54471
+Read port: 54471
+WebDriver BiDi listening on ws://127.0.0.1:54458
+1666129595875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileP0c2Xh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54458/devtools/browser/7532e7f1-aef9-411f-b842-c64c33bb55fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666129656168	Marionette	INFO	Stopped listening on port 54471
+[Parent 33940, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666129683471	geckodriver	INFO	Listening on 127.0.0.1:54727
+1666129686535	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54728" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileOWOd5h"
+1666129686852	Marionette	INFO	Marionette enabled
+1666129686857	Marionette	INFO	Listening on port 54740
+Read port: 54740
+WebDriver BiDi listening on ws://127.0.0.1:54728
+1666129686953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileOWOd5h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54728/devtools/browser/78833e6a-c2c2-4e76-9ece-b1853e317777
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666129746454	Marionette	INFO	Stopped listening on port 54740
+[Parent 40012, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666129814305	geckodriver	INFO	Listening on 127.0.0.1:55052
+1666129817384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55053" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileNLSZf2"
+1666129817718	Marionette	INFO	Marionette enabled
+1666129817723	Marionette	INFO	Listening on port 55067
+WebDriver BiDi listening on ws://127.0.0.1:55053
+Read port: 55067
+1666129818006	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileNLSZf2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55053/devtools/browser/8a1595f9-5702-4788-af89-9d03bdfc2038
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666129879372	Marionette	INFO	Stopped listening on port 55067
+[Parent 39660, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666129913493	geckodriver	INFO	Listening on 127.0.0.1:55349
+1666129923240	geckodriver	INFO	Listening on 127.0.0.1:55366
+1666129926310	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileDLp4Gk"
+1666129926613	Marionette	INFO	Marionette enabled
+1666129926617	Marionette	INFO	Listening on port 55377
+Read port: 55377
+WebDriver BiDi listening on ws://127.0.0.1:55367
+1666129926705	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileDLp4Gk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55367/devtools/browser/081be816-7f7b-47ac-acac-02b29901be4b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666129984648	Marionette	INFO	Stopped listening on port 55377
+[Parent 26736, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666130017375	geckodriver	INFO	Listening on 127.0.0.1:55633
+1666130020424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55634" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile5CLHAu"
+1666130020796	Marionette	INFO	Marionette enabled
+1666130020801	Marionette	INFO	Listening on port 55645
+WebDriver BiDi listening on ws://127.0.0.1:55634
+Read port: 55645
+1666130021021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile5CLHAu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55634/devtools/browser/1c74c86e-47fa-459f-812d-315fa6a82006
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666130079642	Marionette	INFO	Stopped listening on port 55645
+[Parent 37592, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666130113759	geckodriver	INFO	Listening on 127.0.0.1:55900
+1666130116807	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55901" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileDOZrCo"
+1666130117124	Marionette	INFO	Marionette enabled
+1666130117129	Marionette	INFO	Listening on port 55914
+Read port: 55914
+WebDriver BiDi listening on ws://127.0.0.1:55901
+1666130117227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileDOZrCo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55901/devtools/browser/d7f237c8-84a6-41f9-b746-2b3d5906694a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666130236670	Marionette	INFO	Stopped listening on port 55914
+1666130255916	geckodriver	INFO	Listening on 127.0.0.1:56299
+1666130258960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56300" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileKJOWQH"
+1666130259278	Marionette	INFO	Marionette enabled
+1666130259282	Marionette	INFO	Listening on port 56312
+Read port: 56312
+WebDriver BiDi listening on ws://127.0.0.1:56300
+1666130259377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileKJOWQH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56300/devtools/browser/a7bbf88b-10f3-4b31-b4ba-75e3f916b058
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666130319683	Marionette	INFO	Stopped listening on port 56312
+[Parent 40856, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666130356366	geckodriver	INFO	Listening on 127.0.0.1:56580
+1666130359414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilevmZdIe"
+1666130359785	Marionette	INFO	Marionette enabled
+1666130359790	Marionette	INFO	Listening on port 56592
+WebDriver BiDi listening on ws://127.0.0.1:56581
+Read port: 56592
+1666130359980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilevmZdIe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56581/devtools/browser/ff8e2341-10f1-43ad-8196-f9b661cb14cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666130420543	Marionette	INFO	Stopped listening on port 56592
+1666130456610	geckodriver	INFO	Listening on 127.0.0.1:51235
+1666130459694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51236" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilefthmhM"
+1666130460124	Marionette	INFO	Marionette enabled
+1666130460128	Marionette	INFO	Listening on port 51248
+Read port: 51248
+WebDriver BiDi listening on ws://127.0.0.1:51236
+1666130460222	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilefthmhM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51236/devtools/browser/157cf56c-f595-4986-8dbf-6c752c14f3f8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666130519871	Marionette	INFO	Stopped listening on port 51248
+[Parent 35476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666130593121	geckodriver	INFO	Listening on 127.0.0.1:51546
+1666130596172	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51547" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileNfiQms"
+1666130596551	Marionette	INFO	Marionette enabled
+1666130596557	Marionette	INFO	Listening on port 51560
+Read port: 51560
+WebDriver BiDi listening on ws://127.0.0.1:51547
+1666130596691	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileNfiQms\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51547/devtools/browser/5987cc29-27fa-418e-9500-3a68160e297f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666130708206	Marionette	INFO	Stopped listening on port 51560
+[Parent 36084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666130720970	geckodriver	INFO	Listening on 127.0.0.1:51868
+1666130724038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileiMPNeQ"
+1666130724377	Marionette	INFO	Marionette enabled
+1666130724382	Marionette	INFO	Listening on port 51879
+WebDriver BiDi listening on ws://127.0.0.1:51869
+Read port: 51879
+1666130724616	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileiMPNeQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51869/devtools/browser/770d95d6-7a06-4fab-80c2-649270ed6f71
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666130783974	Marionette	INFO	Stopped listening on port 51879
+[Parent 39112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666130791903	geckodriver	INFO	Listening on 127.0.0.1:58719
+1666130794944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile2HE63I"
+1666130795309	Marionette	INFO	Marionette enabled
+1666130795316	Marionette	INFO	Listening on port 58741
+Read port: 58741
+WebDriver BiDi listening on ws://127.0.0.1:58720
+1666130795471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile2HE63I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58720/devtools/browser/6331fb8b-b5eb-4f4e-8d39-4cd9a99021d3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666130873774	Marionette	INFO	Stopped listening on port 58741
+[Parent 16456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666131097236	geckodriver	INFO	Listening on 127.0.0.1:51352
+1666131100306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofiledvkGIn"
+1666131100672	Marionette	INFO	Marionette enabled
+1666131100677	Marionette	INFO	Listening on port 51364
+Read port: 51364
+WebDriver BiDi listening on ws://127.0.0.1:51353
+1666131100811	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofiledvkGIn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51353/devtools/browser/9c7fd38a-3b54-487c-9195-101b87d75e4f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666131158802	Marionette	INFO	Stopped listening on port 51364
+1666131251089	geckodriver	INFO	Listening on 127.0.0.1:51677
+1666131254157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51678" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile2NuRDE"
+1666131254501	Marionette	INFO	Marionette enabled
+1666131254506	Marionette	INFO	Listening on port 51689
+WebDriver BiDi listening on ws://127.0.0.1:51678
+Read port: 51689
+1666131254742	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile2NuRDE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51678/devtools/browser/ab0f10ba-60e8-4765-89a8-7cb32cd21f8a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666131317062	Marionette	INFO	Stopped listening on port 51689
+[Parent 32732, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666131373340	geckodriver	INFO	Listening on 127.0.0.1:51970
+1666131376403	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilenbdi9w"
+1666131376724	Marionette	INFO	Marionette enabled
+1666131376728	Marionette	INFO	Listening on port 51986
+Read port: 51986
+WebDriver BiDi listening on ws://127.0.0.1:51971
+1666131376829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilenbdi9w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51971/devtools/browser/01eb0d18-8d54-481f-84ab-1fdcb236abcc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666131437138	Marionette	INFO	Stopped listening on port 51986
+[Parent 23744, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666132591619	geckodriver	INFO	Listening on 127.0.0.1:56243
+1666132594684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileWKdEXi"
+1666132595029	Marionette	INFO	Marionette enabled
+1666132595033	Marionette	INFO	Listening on port 56257
+WebDriver BiDi listening on ws://127.0.0.1:56244
+Read port: 56257
+1666132595306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileWKdEXi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56244/devtools/browser/3653be1a-bdc3-4c0a-ae9c-b2a200c98d53
+1666132604791	Marionette	INFO	Stopped listening on port 56257
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 38428, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666132643004	geckodriver	INFO	Listening on 127.0.0.1:56336
+1666132646063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilepb4JgQ"
+1666132646512	Marionette	INFO	Marionette enabled
+1666132646517	Marionette	INFO	Listening on port 56349
+WebDriver BiDi listening on ws://127.0.0.1:56337
+Read port: 56349
+1666132646789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilepb4JgQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56337/devtools/browser/012af5c7-7431-4e48-8255-9b9dc34832b9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666132710975	Marionette	INFO	Stopped listening on port 56349
+[Parent 18876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666132725991	geckodriver	INFO	Listening on 127.0.0.1:53233
+1666132729064	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileB3b3cR"
+1666132729522	Marionette	INFO	Marionette enabled
+1666132729527	Marionette	INFO	Listening on port 53248
+Read port: 53248
+WebDriver BiDi listening on ws://127.0.0.1:53234
+1666132729686	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileB3b3cR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53234/devtools/browser/4804c939-c84a-4e3d-96fc-d6413a8cfa31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666132791123	Marionette	INFO	Stopped listening on port 53248
+[Parent 39300, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666132802853	geckodriver	INFO	Listening on 127.0.0.1:53506
+1666132805925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53507" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofiletE16So"
+1666132806232	Marionette	INFO	Marionette enabled
+1666132806237	Marionette	INFO	Listening on port 53518
+Read port: 53518
+WebDriver BiDi listening on ws://127.0.0.1:53507
+1666132806324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofiletE16So\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53507/devtools/browser/8b191996-c3e8-4181-a350-e17c7752ca55
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666132872232	Marionette	INFO	Stopped listening on port 53518
+[Parent 12144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666132910666	geckodriver	INFO	Listening on 127.0.0.1:53842
+1666132913712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilehK3EB6"
+1666132914038	Marionette	INFO	Marionette enabled
+1666132914044	Marionette	INFO	Listening on port 53856
+Read port: 53856
+WebDriver BiDi listening on ws://127.0.0.1:53843
+1666132914161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilehK3EB6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53843/devtools/browser/cf4e460e-c87b-42f4-bd21-563d9eb86146
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666132978769	Marionette	INFO	Stopped listening on port 53856
+1666133076663	geckodriver	INFO	Listening on 127.0.0.1:55845
+1666133079776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilerqiUqk"
+1666133080411	Marionette	INFO	Marionette enabled
+1666133080417	Marionette	INFO	Listening on port 55860
+Read port: 55860
+WebDriver BiDi listening on ws://127.0.0.1:55846
+1666133080788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilerqiUqk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55846/devtools/browser/ff1d438e-f15d-40be-aa6a-0db1bc06fe87
+1666133140120	Marionette	INFO	Stopped listening on port 55860
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666133184139	geckodriver	INFO	Listening on 127.0.0.1:62010
+1666133187214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62011" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilemlhxAR"
+1666133187578	Marionette	INFO	Marionette enabled
+1666133187582	Marionette	INFO	Listening on port 62025
+WebDriver BiDi listening on ws://127.0.0.1:62011
+Read port: 62025
+1666133187813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilemlhxAR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62011/devtools/browser/b4456b94-76a1-4cf5-951b-a4397bc12f10
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666133246865	Marionette	INFO	Stopped listening on port 62025
+[Parent 15376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15376, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666133505701	geckodriver	INFO	Listening on 127.0.0.1:62804
+1666133508813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilesdddj2"
+1666133509407	Marionette	INFO	Marionette enabled
+1666133509431	Marionette	INFO	Listening on port 62821
+Read port: 62821
+WebDriver BiDi listening on ws://127.0.0.1:62805
+1666133509751	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilesdddj2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62805/devtools/browser/c04d7552-a710-4842-8589-46f2ecf8530a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666133577724	Marionette	INFO	Stopped listening on port 62821
+[Parent 39900, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666133632420	geckodriver	INFO	Listening on 127.0.0.1:57699
+1666133635479	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57700" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilepswfb5"
+1666133635930	Marionette	INFO	Marionette enabled
+1666133635936	Marionette	INFO	Listening on port 57726
+WebDriver BiDi listening on ws://127.0.0.1:57700
+Read port: 57726
+1666133636171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilepswfb5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57700/devtools/browser/8fa4b9fa-2484-42ba-84c3-8702ff6d74b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+1666133736263	Marionette	INFO	Stopped listening on port 57726
+1666133869050	geckodriver	INFO	Listening on 127.0.0.1:58374
+1666133872111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58375" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileXvdBHm"
+1666133872534	Marionette	INFO	Marionette enabled
+1666133872538	Marionette	INFO	Listening on port 58388
+Read port: 58388
+WebDriver BiDi listening on ws://127.0.0.1:58375
+1666133872628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileXvdBHm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58375/devtools/browser/504d98c3-3df9-4f1d-a51c-946be093e2b6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666134011217	Marionette	INFO	Stopped listening on port 58388
+[Parent 34988, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666136941406	geckodriver	INFO	Listening on 127.0.0.1:64800
+1666136944483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "64801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileiZWqzp"
+1666136957210	geckodriver	INFO	Listening on 127.0.0.1:64851
+1666136960250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "64852" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilenbTsHb"
+1666136960577	Marionette	INFO	Marionette enabled
+1666136960581	Marionette	INFO	Listening on port 64863
+WebDriver BiDi listening on ws://127.0.0.1:64852
+Read port: 64863
+1666136960839	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilenbTsHb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64852/devtools/browser/f23c9197-610f-4ed9-8816-57ee16ddd102
+1666137026432	Marionette	INFO	Stopped listening on port 64863
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 35836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666137397775	geckodriver	INFO	Listening on 127.0.0.1:61156
+1666137400846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "61157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileYjRsuv"
+1666137401169	Marionette	INFO	Marionette enabled
+1666137401173	Marionette	INFO	Listening on port 61171
+Read port: 61171
+WebDriver BiDi listening on ws://127.0.0.1:61157
+1666137401261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileYjRsuv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61157/devtools/browser/43e4a6a8-95d0-4a6d-9338-5044d2d84262
+1666137495871	Marionette	INFO	Stopped listening on port 61171
+[Parent 40408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 40408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666138918262	geckodriver	INFO	Listening on 127.0.0.1:50204
+1666138921355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "50205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileZPuwe0"
+1666138921688	Marionette	INFO	Marionette enabled
+1666138921693	Marionette	INFO	Listening on port 50221
+Read port: 50221
+WebDriver BiDi listening on ws://127.0.0.1:50205
+1666138921849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileZPuwe0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50205/devtools/browser/3241693b-da70-4c4b-a29c-d01646c5c721
+1666138974948	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138975739	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138976183	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138976368	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138976654	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138976799	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138976948	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138977252	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138977545	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138977760	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138978030	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1666138998407	Marionette	INFO	Stopped listening on port 50221
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666139000978	geckodriver	INFO	Listening on 127.0.0.1:63530
+1666139004051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "63531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile22eKJW"
+1666139004356	Marionette	INFO	Marionette enabled
+1666139004360	Marionette	INFO	Listening on port 63542
+Read port: 63542
+WebDriver BiDi listening on ws://127.0.0.1:63531
+1666139004455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile22eKJW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63531/devtools/browser/fbcdee1b-f88e-4d16-bec5-ed201e2335dc
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666139129008	Marionette	INFO	Stopped listening on port 63542
+[Parent 39744, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666139481673	geckodriver	INFO	Listening on 127.0.0.1:55212
+1666139484731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "55213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileUMwQCJ"
+1666139485109	Marionette	INFO	Marionette enabled
+1666139485116	Marionette	INFO	Listening on port 55227
+Read port: 55227
+WebDriver BiDi listening on ws://127.0.0.1:55213
+1666139485238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileUMwQCJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55213/devtools/browser/0b26b6a3-a0a8-4097-ac41-f3d06cd7f51f
+JavaScript error: https://www.barstoolsportsbook.com/segment/segment.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.barstoolsportsbook.com/geocomply/geocomply-client.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.barstoolsportsbook.com/tm/tm.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.barstoolsportsbook.com/segment/segment.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.barstoolsportsbook.com/geocomply/geocomply-client.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.barstoolsportsbook.com/tm/tm.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.barstoolsportsbook.com/segment/segment.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.barstoolsportsbook.com/geocomply/geocomply-client.min.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.barstoolsportsbook.com/tm/tm.min.js, line 1: SyntaxError: expected expression, got '<'
+1666139543193	Marionette	INFO	Stopped listening on port 55227
+1666139557802	geckodriver	INFO	Listening on 127.0.0.1:61421
+1666139560858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "61422" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileDLkuFQ"
+1666139561205	Marionette	INFO	Marionette enabled
+1666139561210	Marionette	INFO	Listening on port 61435
+WebDriver BiDi listening on ws://127.0.0.1:61422
+Read port: 61435
+1666139561497	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileDLkuFQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61422/devtools/browser/23bd8eb9-16e0-4c01-8816-8296be83cdc4
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: https://www.barstoolsportsbook.com/js/app.js, line 1: Error: Loading CSS chunk eventdetails~exclusives-index failed.
+(/css/eventdetails~exclusives-index.css)
+1666139781328	Marionette	INFO	Stopped listening on port 61435
+[Parent 42224, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666217278485	geckodriver	INFO	Listening on 127.0.0.1:64530
+1666217281550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofiledesYMi"
+1666217282513	Marionette	INFO	Marionette enabled
+1666217282522	Marionette	INFO	Listening on port 64567
+Read port: 64567
+WebDriver BiDi listening on ws://127.0.0.1:64531
+1666217282695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofiledesYMi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64531/devtools/browser/15f40442-d9e3-4868-bd66-00c1b1f04662
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666217333406	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666217342761	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666217353789	geckodriver	INFO	Listening on 127.0.0.1:64872
+1666217356834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileCYBd5J"
+1666217357234	Marionette	INFO	Marionette enabled
+1666217357240	Marionette	INFO	Listening on port 64049
+Read port: 64049
+WebDriver BiDi listening on ws://127.0.0.1:64873
+1666217357393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileCYBd5J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64873/devtools/browser/d46550e6-5697-476f-ae82-f91a8069c365
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666217412639	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1666217415750	Marionette	INFO	Stopped listening on port 64049
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1666217436640	geckodriver	INFO	Listening on 127.0.0.1:64429
+1666217439678	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "64430" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile2hE7Y4"
+1666217439987	Marionette	INFO	Marionette enabled
+1666217439991	Marionette	INFO	Listening on port 64445
+Read port: 64445
+WebDriver BiDi listening on ws://127.0.0.1:64430
+1666217440083	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile2hE7Y4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64430/devtools/browser/daaba609-861e-4d15-bb2a-d675eb5ba0d6
+1666217587487	Marionette	INFO	Stopped listening on port 64445
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 1984, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
