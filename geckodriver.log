@@ -11621,3 +11621,224 @@ DevTools listening on ws://127.0.0.1:64430/devtools/browser/daaba609-861e-4d15-b
 1666217587487	Marionette	INFO	Stopped listening on port 64445
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
 [Parent 1984, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666248041585	geckodriver	INFO	Listening on 127.0.0.1:54937
+1666248045820	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "45775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyZrnhp"
+Gtk-Message: 06:40:46.358: Failed to load module "canberra-gtk-module"
+Gtk-Message: 06:40:46.361: Failed to load module "canberra-gtk-module"
+1666248338275	geckodriver	INFO	Listening on 127.0.0.1:60951
+
+Command '/usr/bin/firefox' requires the firefox snap to be installed.
+Please install it with:
+
+snap install firefox
+
+1666248338780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "54565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilexmUYay"
+
+Command '/usr/bin/firefox' requires the firefox snap to be installed.
+Please install it with:
+
+snap install firefox
+
+1666249321679	geckodriver	INFO	Listening on 127.0.0.1:56109
+1666249321685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "45567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7jRTZN"
+1666249322613	Marionette	INFO	Marionette enabled
+1666249322619	Marionette	INFO	Listening on port 45815
+Read port: 45815
+WebDriver BiDi listening on ws://127.0.0.1:45567
+1666249322813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7jRTZN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45567/devtools/browser/ec0ef1e0-e30c-4251-99f9-5d3970e57328
+1666249381917	Marionette	INFO	Stopped listening on port 45815
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1666250112045	geckodriver	INFO	Listening on 127.0.0.1:51195
+1666250112257	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "47771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenZ44Q3"
+1666250263544	geckodriver	INFO	Listening on 127.0.0.1:39947
+1666250264053	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--disable-blink-features=AutomationControlled" "--remote-debugging-port" "56575" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7AwpAW"
+1666250267521	Marionette	INFO	Marionette enabled
+1666250267533	Marionette	INFO	Listening on port 44771
+Read port: 44771
+WebDriver BiDi listening on ws://127.0.0.1:56575
+1666250267982	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7AwpAW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56575/devtools/browser/325c6dcf-a1d3-4cca-ae2d-7b5d229a21fe
+1666250328061	Marionette	INFO	Stopped listening on port 44771
+1666252275463	geckodriver	INFO	Listening on 127.0.0.1:41449
+1666252275472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45279" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezdBrph"
+1666252276440	Marionette	INFO	Marionette enabled
+1666252276448	Marionette	INFO	Listening on port 36349
+Read port: 36349
+WebDriver BiDi listening on ws://127.0.0.1:45279
+1666252276658	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezdBrph/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45279/devtools/browser/9b3076ab-164e-446d-af38-24fd8734e181
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666252312782	Marionette	INFO	Stopped listening on port 36349
+1666252595268	geckodriver	INFO	Listening on 127.0.0.1:45619
+1666252595273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37619" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile67ibcf"
+1666252596271	Marionette	INFO	Marionette enabled
+1666252596278	Marionette	INFO	Listening on port 33387
+Read port: 33387
+WebDriver BiDi listening on ws://127.0.0.1:37619
+1666252596659	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile67ibcf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37619/devtools/browser/93711c63-a9d8-4a32-9017-9d10574725fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666252632786	Marionette	INFO	Stopped listening on port 33387
+1666252761189	geckodriver	INFO	Listening on 127.0.0.1:38095
+1666252761677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevjKza5"
+1666252763158	Marionette	INFO	Marionette enabled
+1666252763168	Marionette	INFO	Listening on port 40333
+Read port: 40333
+WebDriver BiDi listening on ws://127.0.0.1:39155
+1666252763383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevjKza5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39155/devtools/browser/b3fa1d00-124a-4fc0-8f8a-dba090d9cd12
+1666252773315	Marionette	INFO	Stopped listening on port 40333
+JavaScript error: resource://gre/actors/ContentMetaChild.jsm, line 183: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofilevjKza5/protections.sqlite
+1666252953245	geckodriver	INFO	Listening on 127.0.0.1:38345
+1666252953250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTsL6HJ"
+1666252954433	Marionette	INFO	Marionette enabled
+1666252954442	Marionette	INFO	Listening on port 39877
+Read port: 39877
+WebDriver BiDi listening on ws://127.0.0.1:55843
+1666252954704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTsL6HJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55843/devtools/browser/f4815062-4c75-438e-bbab-00cb99d8182a
+1666252967008	Marionette	INFO	Stopped listening on port 39877
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+1666253200602	geckodriver	INFO	Listening on 127.0.0.1:60519
+1666253201101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52697" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCyAGJS"
+1666253202143	Marionette	INFO	Marionette enabled
+1666253202154	Marionette	INFO	Listening on port 41411
+Read port: 41411
+WebDriver BiDi listening on ws://127.0.0.1:52697
+1666253202385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCyAGJS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52697/devtools/browser/eece7daa-3d5f-4dbc-94a0-d54aea541b79
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+1666253216415	Marionette	INFO	Stopped listening on port 41411
+1666253336125	geckodriver	INFO	Listening on 127.0.0.1:42735
+1666253336147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAiX57P"
+1666253337777	Marionette	INFO	Marionette enabled
+1666253337786	Marionette	INFO	Listening on port 36397
+Read port: 36397
+WebDriver BiDi listening on ws://127.0.0.1:51911
+1666253338084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAiX57P/search.json.mozlz4", (void 0)))
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+DevTools listening on ws://127.0.0.1:51911/devtools/browser/91a7f41a-ba4a-463b-94b7-0eee5a663fcf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+1666253352535	Marionette	INFO	Stopped listening on port 36397
+1666253406971	geckodriver	INFO	Listening on 127.0.0.1:34455
+1666253407485	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "45597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9UcIIS"
+1666253411399	geckodriver	INFO	Listening on 127.0.0.1:55205
+1666253411405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJy6vCd"
+1666253412630	Marionette	INFO	Marionette enabled
+1666253412638	Marionette	INFO	Listening on port 44783
+Read port: 44783
+WebDriver BiDi listening on ws://127.0.0.1:45341
+1666253412872	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJy6vCd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45341/devtools/browser/f9da296f-4ea2-44af-aafc-303534a7cdf8
+1666253425418	Marionette	INFO	Stopped listening on port 44783
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1108: Error: Sqlite.jsm has been shutdown. Cannot open connection to: /tmp/rust_mozprofileJy6vCd/protections.sqlite
+1666253470278	geckodriver	INFO	Listening on 127.0.0.1:57615
+1666253470781	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "54509" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZL1W2a"
+1666253475969	geckodriver	INFO	Listening on 127.0.0.1:58249
+1666253475976	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40487" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3kxpdS"
+1666253477092	Marionette	INFO	Marionette enabled
+1666253477100	Marionette	INFO	Listening on port 32939
+Read port: 32939
+WebDriver BiDi listening on ws://127.0.0.1:40487
+1666253477299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3kxpdS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40487/devtools/browser/976da882-ea8d-4c4e-92de-dcccf583c286
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+1666253491655	Marionette	INFO	Stopped listening on port 32939
+1666253679663	geckodriver	INFO	Listening on 127.0.0.1:33017
+1666253679668	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59633" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4BsqJL"
+1666253680757	Marionette	INFO	Marionette enabled
+1666253680764	Marionette	INFO	Listening on port 45487
+Read port: 45487
+WebDriver BiDi listening on ws://127.0.0.1:59633
+1666253680970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4BsqJL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59633/devtools/browser/9d0d099d-9d3f-4ec9-896d-f94a15624969
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+1666253696694	Marionette	INFO	Stopped listening on port 45487
+1666253726032	geckodriver	INFO	Listening on 127.0.0.1:60377
+1666253726535	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--remote-debugging-port" "36849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileT2pdGu"
+1666253753468	geckodriver	INFO	Listening on 127.0.0.1:37449
+1666253753961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45603" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXyjzX3"
+1666253755341	Marionette	INFO	Marionette enabled
+1666253755349	Marionette	INFO	Listening on port 42903
+Read port: 42903
+WebDriver BiDi listening on ws://127.0.0.1:45603
+1666253755625	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXyjzX3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45603/devtools/browser/4e1a9b85-739e-47de-9af2-03db91d5e284
+1666253767194	Marionette	INFO	Stopped listening on port 42903
+1666253789446	geckodriver	INFO	Listening on 127.0.0.1:34827
+1666253789949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6Gcc5D"
+1666253791294	Marionette	INFO	Marionette enabled
+1666253791305	Marionette	INFO	Listening on port 42927
+Read port: 42927
+WebDriver BiDi listening on ws://127.0.0.1:39267
+1666253791648	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6Gcc5D/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39267/devtools/browser/b1f9d023-d3f0-44e4-947f-ac809e840a69
+1666253807236	Marionette	INFO	Stopped listening on port 42927
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 719: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1666253870538	geckodriver	INFO	Listening on 127.0.0.1:47409
+1666253870545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCHFnmx"
+1666253871775	Marionette	INFO	Marionette enabled
+1666253871783	Marionette	INFO	Listening on port 33323
+Read port: 33323
+WebDriver BiDi listening on ws://127.0.0.1:60409
+1666253872056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCHFnmx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60409/devtools/browser/72fe9664-18ad-4edc-a7af-3b3b5f306b59
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+1666253892765	Marionette	INFO	Stopped listening on port 33323
+1666253912923	geckodriver	INFO	Listening on 127.0.0.1:43683
+1666253913426	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34931" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDh3Eak"
+1666253914793	Marionette	INFO	Marionette enabled
+1666253914804	Marionette	INFO	Listening on port 37053
+Read port: 37053
+WebDriver BiDi listening on ws://127.0.0.1:34931
+1666253915101	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDh3Eak/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34931/devtools/browser/10a5371f-dbd9-43de-80e0-b50bcced1101
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+1666253930923	Marionette	INFO	Stopped listening on port 37053
+1666254100722	geckodriver	INFO	Listening on 127.0.0.1:40189
+1666254100727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJbecyy"
+1666254101811	Marionette	INFO	Marionette enabled
+1666254101818	Marionette	INFO	Listening on port 37371
+Read port: 37371
+WebDriver BiDi listening on ws://127.0.0.1:50523
+1666254102036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJbecyy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50523/devtools/browser/bdfd0590-24f2-4ea2-a471-c7fe81d5924f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666254130070	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://pa.sportsbook.fanduel.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666254148050	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+Exiting due to channel error.
+Exiting due to channel error.

@@ -66,7 +66,16 @@ class NBAScraper(webdriver.Firefox):
         """
             Get all game links
         """
-        gameEvents = WebDriverWait(self, 30).until(ec.presence_of_all_elements_located((By.CSS_SELECTOR, 'div.if.aj.s.h.i.j.ak.l.m.al.o.am.q.an')))
+        time.sleep(5)
+        parent_divs = self.find_elements(By.XPATH, '//div[@class="x h" and @style="flex-direction: column; overflow: hidden auto; display: flex; min-width: 0px;"]')
+
+
+        target_div = None
+        for div in parent_divs:
+            if "money" in div.text.lower():
+                target_div = div
+
+        gameEvents = target_div.find_elements(By.XPATH, './div')
         for game in gameEvents:
             try:
                 self.gameLinks.append(
