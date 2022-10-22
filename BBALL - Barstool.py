@@ -114,7 +114,7 @@ class NBAScraper(webdriver.Firefox):
 
         time.sleep(5)
 
-        tabs = WebDriverWait(self, 15).until(ec.presence_of_all_elements_located((By.CLASS_NAME, 'v-tab')))
+        tabs = WebDriverWait(self, 45).until(ec.presence_of_all_elements_located((By.CLASS_NAME, 'v-tab')))
 
 
         for i in range(len(tabs)):
@@ -146,7 +146,7 @@ with NBAScraper() as nba:
     nba.getAllGamesLinks()
     print(f"Found {len(nba.gameLinks)} games.")
 
-    nba.scrapGames(["POINTS, REBOUNDS & ASSISTS BY THE PLAYER", "POINTS SCORED BY THE PLAYER", "ASSISTS BY THE PLAYER", "REBOUNDS BY THE PLAYER"],1,1)
+    nba.scrapGames(["POINTS, REBOUNDS & ASSISTS BY THE PLAYER", "POINTS SCORED BY THE PLAYER", "ASSISTS BY THE PLAYER", "REBOUNDS BY THE PLAYER"],1,"all")
 
     print("Extracting to Excel :) ")
     extractToExcel(nba.playersStats, "nba - data", "Barstool Raw")
