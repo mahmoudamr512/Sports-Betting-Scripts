@@ -19,10 +19,11 @@ wait_time = 10
 target_sport = "NFL"
 master_list = []
 
+
 def extractToExcel(list, excelFile, excelTab):
     path = f'/Users/ryanmccarroll/Google Drive/PyCharm Output/{excelFile}.xlsx'
 
-    #path = f'{excelFile}.xlsx'
+    # path = f'{excelFile}.xlsx'
 
     writer = None
 
@@ -48,6 +49,7 @@ def extractToExcel(list, excelFile, excelTab):
     book.save(path)
     book.close()
 
+
 class NFLScraper(webdriver.Firefox):
 
     def __exit__(self, exc_type, exc_val, exc_tb):
@@ -68,7 +70,8 @@ class NFLScraper(webdriver.Firefox):
         """
             Get all game links
         """
-        gameEvents = WebDriverWait(self, 30).until(ec.presence_of_all_elements_located((By.CSS_SELECTOR, '.container.wrap.event-row.match-row')))
+        gameEvents = WebDriverWait(self, 30).until(
+            ec.presence_of_all_elements_located((By.CSS_SELECTOR, '.container.wrap.event-row.match-row')))
 
         for game in gameEvents:
             try:
@@ -106,7 +109,6 @@ class NFLScraper(webdriver.Firefox):
 
                     self.playersStats.append(players)
 
-
     def scrapGame(self, stats, link):
         self.get(
             link
@@ -116,25 +118,24 @@ class NFLScraper(webdriver.Firefox):
 
         tabs = WebDriverWait(self, 15).until(ec.presence_of_all_elements_located((By.CLASS_NAME, 'v-tab')))
 
-
         for i in range(len(tabs)):
             if tabs[i].text in ["Player Passing", "Player Receiving", "Player Rushing"]:
                 self.execute_script("arguments[0].scrollIntoView(true);", tabs[i])
                 tabs[i].click()
                 self.execute_script("arguments[0].click()", tabs[i])
                 time.sleep(3)
-                self.scrapTab(stats, self.find_element(By.CSS_SELECTOR,'.v-window-item.active-tab').find_element(
+                self.scrapTab(stats, self.find_element(By.CSS_SELECTOR, '.v-window-item.active-tab').find_element(
                     By.XPATH, "./div/div[1]"
                 ))
 
-    def scrapGames(self, stats , startGame = 1, endGame= "all") -> None:
+    def scrapGames(self, stats, startGame=1, endGame="all") -> None:
         self.startGame = startGame - 1
         self.endGame = endGame
         if endGame == "all":
             self.endGame = len(self.gameLinks)
 
         for i in range(self.startGame, self.endGame):
-            print(f"Scraping Game {i+1}")
+            print(f"Scraping Game {i + 1}")
             self.scrapGame(stats, self.gameLinks[i])
 
 

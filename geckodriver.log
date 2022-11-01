@@ -11842,3 +11842,357 @@ interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431
 webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
 Exiting due to channel error.
 Exiting due to channel error.
+1666411976242	geckodriver	INFO	Listening on 127.0.0.1:53637
+1666411979361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileh4DVIk"
+1666411979852	Marionette	INFO	Marionette enabled
+1666411979857	Marionette	INFO	Listening on port 53647
+Read port: 53647
+WebDriver BiDi listening on ws://127.0.0.1:53638
+1666411980096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileh4DVIk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53638/devtools/browser/925f85fd-0991-4f73-9da7-70a5b99b0cb3
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://casinogames.pa.betmgm.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sports.pa.betmgm.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666412045941	geckodriver	INFO	Listening on 127.0.0.1:54105
+1666412049024	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileqrUrca"
+1666412049564	Marionette	INFO	Marionette enabled
+1666412049569	Marionette	INFO	Listening on port 54115
+Read port: 54115
+WebDriver BiDi listening on ws://127.0.0.1:54106
+1666412049748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileqrUrca\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54106/devtools/browser/a7712d63-7972-4f5a-9a93-894494841622
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://casinogames.pa.betmgm.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sports.pa.betmgm.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666412145333	Marionette	INFO	Stopped listening on port 54115
+[Parent 8316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1666412151810	geckodriver	INFO	Listening on 127.0.0.1:54569
+1666412154805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54570" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile40zrtg"
+1666412155174	Marionette	INFO	Marionette enabled
+1666412155178	Marionette	INFO	Listening on port 54579
+WebDriver BiDi listening on ws://127.0.0.1:54570
+Read port: 54579
+1666412155394	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile40zrtg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54570/devtools/browser/4ba18f68-442b-40e6-935c-edcf2d3e9251
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sports.pa.betmgm.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://casinogames.pa.betmgm.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1666412315818	geckodriver	INFO	Listening on 127.0.0.1:55187
+1666412318880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileRZ9R3N"
+1666412319201	Marionette	INFO	Marionette enabled
+1666412319205	Marionette	INFO	Listening on port 55197
+Read port: 55197
+WebDriver BiDi listening on ws://127.0.0.1:55188
+1666412319326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileRZ9R3N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55188/devtools/browser/97b781e9-60e7-40a8-9706-571dbddc7d54
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://casinogames.pa.betmgm.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sports.pa.betmgm.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1666412400879	geckodriver	INFO	Listening on 127.0.0.1:55595
+1666412403945	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55596" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileHs4DuZ"
+1666412404271	Marionette	INFO	Marionette enabled
+1666412404275	Marionette	INFO	Listening on port 55605
+Read port: 55605
+WebDriver BiDi listening on ws://127.0.0.1:55596
+1666412404366	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileHs4DuZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55596/devtools/browser/a41c6a00-5506-43f6-bd39-93b10f991d42
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://casinogames.pa.betmgm.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://sports.pa.betmgm.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://tr.snapchat.com."
+1667319406263	geckodriver	INFO	Listening on 127.0.0.1:60704
+1667319409357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60705" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileRR2T6k"
+1667319409816	Marionette	INFO	Marionette enabled
+1667319409821	Marionette	INFO	Listening on port 60714
+WebDriver BiDi listening on ws://127.0.0.1:60705
+Read port: 60714
+1667319410089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileRR2T6k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60705/devtools/browser/cd1c5333-4c36-4012-bf43-138b4282cf7e
+1667319465203	Marionette	INFO	Stopped listening on port 60714
+1667319720796	geckodriver	INFO	Listening on 127.0.0.1:62202
+1667319723857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileQy0iBc"
+1667319724301	Marionette	INFO	Marionette enabled
+1667319724305	Marionette	INFO	Listening on port 62212
+Read port: 62212
+WebDriver BiDi listening on ws://127.0.0.1:62203
+1667319724405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileQy0iBc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62203/devtools/browser/a488c0b8-31ba-49e4-a985-507857d00d9e
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667319779920	Marionette	INFO	Stopped listening on port 62212
+[Parent 7448, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667319832951	geckodriver	INFO	Listening on 127.0.0.1:57903
+1667319835989	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57904" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile1CmYpd"
+1667319836319	Marionette	INFO	Marionette enabled
+1667319836324	Marionette	INFO	Listening on port 57913
+WebDriver BiDi listening on ws://127.0.0.1:57904
+Read port: 57913
+1667319836570	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofile1CmYpd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57904/devtools/browser/7b1aae25-3ef8-451f-b5a9-230d6d0a3278
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667319893987	Marionette	INFO	Stopped listening on port 57913
+[Parent 19248, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667319897468	geckodriver	INFO	Listening on 127.0.0.1:58352
+1667319900539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilenT4Fia"
+1667319900847	Marionette	INFO	Marionette enabled
+1667319900851	Marionette	INFO	Listening on port 58362
+Read port: 58362
+WebDriver BiDi listening on ws://127.0.0.1:58353
+1667319900942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilenT4Fia\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58353/devtools/browser/1c325b2d-2993-4a1d-b442-1221eec2a43e
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667319957905	Marionette	INFO	Stopped listening on port 58362
+[Parent 8944, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667319982876	geckodriver	INFO	Listening on 127.0.0.1:58801
+1667319985936	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilewEbUvW"
+1667319986249	Marionette	INFO	Marionette enabled
+1667319986254	Marionette	INFO	Listening on port 58812
+Read port: 58812
+WebDriver BiDi listening on ws://127.0.0.1:58802
+1667319986347	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilewEbUvW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58802/devtools/browser/bd47f089-e49d-4df5-93ec-fcc3042fadfa
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667320040969	geckodriver	INFO	Listening on 127.0.0.1:59239
+1667320044032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileXMz1Fa"
+1667320044353	Marionette	INFO	Marionette enabled
+1667320044356	Marionette	INFO	Listening on port 59249
+Read port: 59249
+WebDriver BiDi listening on ws://127.0.0.1:59240
+1667320044451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileXMz1Fa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59240/devtools/browser/c74b486a-1a74-469c-bf15-04b9f5b9bbf2
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667320073825	geckodriver	INFO	Listening on 127.0.0.1:59558
+1667320076897	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59559" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileEix9E1"
+1667320077208	Marionette	INFO	Marionette enabled
+1667320077212	Marionette	INFO	Listening on port 59568
+Read port: 59568
+WebDriver BiDi listening on ws://127.0.0.1:59559
+1667320077309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileEix9E1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59559/devtools/browser/e7d1170f-2a44-4694-9aeb-592e35fd36e8
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667320133182	Marionette	INFO	Stopped listening on port 59568
+1667320153741	geckodriver	INFO	Listening on 127.0.0.1:59996
+1667320156817	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59997" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileeNHJuy"
+1667320157127	Marionette	INFO	Marionette enabled
+1667320157131	Marionette	INFO	Listening on port 60006
+Read port: 60006
+WebDriver BiDi listening on ws://127.0.0.1:59997
+1667320157252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileeNHJuy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59997/devtools/browser/691ec888-49fc-413e-92fa-03c5150d03fc
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 307: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667320195529	geckodriver	INFO	Listening on 127.0.0.1:60412
+1667320198594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilebvCAjk"
+1667320198901	Marionette	INFO	Marionette enabled
+1667320198905	Marionette	INFO	Listening on port 60422
+Read port: 60422
+WebDriver BiDi listening on ws://127.0.0.1:60413
+1667320199001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilebvCAjk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60413/devtools/browser/95d482d3-4a38-45bf-8801-885cc8c879e6
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667320261407	geckodriver	INFO	Listening on 127.0.0.1:60711
+1667320264491	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60712" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileQoDBFO"
+1667320264792	Marionette	INFO	Marionette enabled
+1667320264796	Marionette	INFO	Listening on port 60725
+Read port: 60725
+WebDriver BiDi listening on ws://127.0.0.1:60712
+1667320264885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileQoDBFO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60712/devtools/browser/3eed5490-ed62-4d77-b77d-9c69e3f0511a
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1667320320729	Marionette	INFO	Stopped listening on port 60725
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Parent 22544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1667320366742	geckodriver	INFO	Listening on 127.0.0.1:61192
+1667320369824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61193" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilexsabYa"
+1667320370123	Marionette	INFO	Marionette enabled
+1667320370127	Marionette	INFO	Listening on port 61202
+Read port: 61202
+WebDriver BiDi listening on ws://127.0.0.1:61193
+1667320370214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilexsabYa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61193/devtools/browser/cc1526e1-d6c0-4ef8-8e3f-075ce7ec2e74
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 593"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:593:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 593, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 593: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1667320427523	Marionette	INFO	Stopped listening on port 61202
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Parent 4332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Parent 4332, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667320512145	geckodriver	INFO	Listening on 127.0.0.1:52846
+1667320515217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileUcfK0K"
+1667320515535	Marionette	INFO	Marionette enabled
+1667320515539	Marionette	INFO	Listening on port 52856
+Read port: 52856
+WebDriver BiDi listening on ws://127.0.0.1:52847
+1667320515628	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileUcfK0K\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52847/devtools/browser/73fb7fc2-44fa-49f7-8a20-c6f49b0576fa
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667320572904	Marionette	INFO	Stopped listening on port 52856
+[Parent 18992, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1667321069871	geckodriver	INFO	Listening on 127.0.0.1:61936
+1667321072929	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61937" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileBCEntF"
+1667321073247	Marionette	INFO	Marionette enabled
+1667321073251	Marionette	INFO	Listening on port 61948
+Read port: 61948
+WebDriver BiDi listening on ws://127.0.0.1:61937
+1667321073348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofileBCEntF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61937/devtools/browser/a49e7916-c8bc-4edd-84ff-556e5ce4afaf
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667321137579	Marionette	INFO	Stopped listening on port 61948
+1667321151666	geckodriver	INFO	Listening on 127.0.0.1:62411
+1667321154741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62412" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilePHDZ9D"
+1667321155056	Marionette	INFO	Marionette enabled
+1667321155061	Marionette	INFO	Listening on port 62423
+Read port: 62423
+WebDriver BiDi listening on ws://127.0.0.1:62412
+1667321155161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilePHDZ9D\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62412/devtools/browser/13bd0575-414e-4f58-8e3a-306fe146776b
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667321354164	geckodriver	INFO	Listening on 127.0.0.1:53086
+1667321357219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53087" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilea5tHVg"
+1667321357615	Marionette	INFO	Marionette enabled
+1667321357619	Marionette	INFO	Listening on port 53098
+Read port: 53098
+WebDriver BiDi listening on ws://127.0.0.1:53087
+1667321357718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\MAHMOU~1\\AppData\\Local\\Temp\\rust_mozprofilea5tHVg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53087/devtools/browser/b97d609b-2893-408c-ab83-ab812209fa7f
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sports.pa.betmgm.com/ClientDist/main.57aae6eb50a52762.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1667321416363	Marionette	INFO	Stopped listening on port 53098
