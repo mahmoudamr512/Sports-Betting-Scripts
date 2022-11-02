@@ -98,9 +98,11 @@ class NBAScraper(webdriver.Firefox):
                 tabsBar = WebDriverWait(mainDivs[i], 10).until(ec.presence_of_element_located((By.CSS_SELECTOR, 'ul.tab-bar-container')))
                 tabs = tabsBar.find_elements(By.XPATH, './li')
                 for j in range(len(tabs)):
+                    time.sleep(0.025)
                     self.execute_script("arguments[0].scrollIntoView(true);", tabs[j])
                     if tabs[j].text.strip() in stats:
                         self.execute_script("arguments[0].click();", tabs[j])
+                        tabs[j].click()
                         playersDiv = mainDivs[i].find_element(By.CSS_SELECTOR,
                                                               '.option-group-container.player-props-container.triple')
                         self.execute_script("arguments[0].scrollIntoView(true);", playersDiv)

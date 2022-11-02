@@ -133,3 +133,4 @@ with NFLScraper() as nfl:
     print("Extracting to Excel :) ")
     extractToExcel(nfl.playersStats, "nfl - data", "BetOnline Raw")
     print("Done, closing..")
+

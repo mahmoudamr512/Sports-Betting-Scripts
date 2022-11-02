@@ -69,7 +69,7 @@ class NBAScraper(webdriver.Firefox):
 
     def scrapPlayersInStat(self, statDiv, stat):
 
-        games = statDiv.find_elements(By.CLASS_NAME, 'main-stat__content')
+        games = statDiv.find_elements(By.CSS_SELECTOR, 'div.main-stat__content')
 
         if self.endGame == 'all':
             self.endGame = len(games)
@@ -127,7 +127,7 @@ with NBAScraper() as nba:
     nba.loadNBATab()
     nba.loadStats(
     ["Points", "Rebounds","Assists", "Pts + Reb + Ast"],
-        1,"all"
+        1,1
     )
 
     print("Extracting to Excel :) ")
