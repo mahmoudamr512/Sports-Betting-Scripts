@@ -59,8 +59,9 @@ class NFLScraper(webdriver.Firefox):
         self.get("https://bv2.digitalsportstech.com/betbuilder?sb=betonline")
 
     def loadNFLTab(self) -> None:
-        sports = WebDriverWait(self, wait_time).until(
-            ec.visibility_of_all_elements_located((By.CLASS_NAME, "ligues-slider__item.sportNames")))
+        sports_div = WebDriverWait(self, wait_time).until(
+            ec.visibility_of_element_located((By.CSS_SELECTOR, ".ligues-slider__list.sports")))
+        sports = sports_div.find_elements(By.XPATH, './div')
 
         for sport in sports:
             if target_sport in sport.text:
@@ -109,16 +110,18 @@ class NFLScraper(webdriver.Firefox):
 
     def loadStats(self, stats, startGame = 1, endGame ='all') -> None:
         self.startGame = startGame
-        self.endGame =  endGame
+        self.endGame = endGame
         mainStatsDiv = WebDriverWait(self, wait_time).until(ec.presence_of_element_located(
             (By.CSS_SELECTOR, "div.main-stats"))
         )
         allStatsDiv = mainStatsDiv.find_elements(By.TAG_NAME, 'app-main-stats-grouped')
 
         for stat in stats:
-            for statDiv in allStatsDiv:
-                if stat.lower() in statDiv.text.lower().strip():
-                    self.scrapStats(statDiv, stat)
+            for i in range(len(allStatsDiv)):
+                if stat.lower() in allStatsDiv[i].text.lower().strip():
+                    self.scrapStats(allStatsDiv[i], stat)
+                    allStatsDiv = mainStatsDiv.find_elements(By.TAG_NAME, 'app-main-stats-grouped')
+
 
 with NFLScraper() as nfl:
     print("Opening Betonline")

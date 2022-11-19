@@ -62,7 +62,7 @@ class NBAScraper(webdriver.Firefox):
         self.gameLinks = []
 
     def openBarstool(self) -> None:
-        self.get("https://www.barstoolsportsbook.com/sports/basketball/nba")
+        self.get("https://www.barstoolsportsbook.com/sports/basketball/nba?category=upcoming")
 
     def getAllGamesLinks(self) -> None:
         """
@@ -79,18 +79,23 @@ class NBAScraper(webdriver.Firefox):
                 pass
 
     def scrapTab(self, stats, tabDiv):
-        time.sleep(3)
+        time.sleep(1)
 
         innerDivs = tabDiv.find_elements(By.CLASS_NAME, "offer-item-wrapper")
 
         for div in innerDivs:
             self.execute_script("arguments[0].scrollIntoView(true);", div)
 
-            divHeading = div.find_element(By.CSS_SELECTOR, ".ml-sp1.strongbody2").text.title()
+            divHeading = div.find_element(By.CSS_SELECTOR, ".ml-sp1.strongbody2").text.strip()
 
             if divHeading in stats:
-                rows = div.find_elements(By.CSS_SELECTOR, ".offer-row.flexbox.justify-center")
+                print(divHeading)
+                if "expansion-panel-active" not in div.get_attribute('outerHTML'):
+                    self.execute_script("arguments[0].click();", div)
+                    time.sleep(0.25)
 
+                rows = div.find_elements(By.CSS_SELECTOR, ".offer-row.flexbox.justify-center")
+                print(f"Number of players: {len(rows)}")
                 for row in rows:
                     rowText = row.text.split("\n")
 
@@ -112,13 +117,16 @@ class NBAScraper(webdriver.Firefox):
             link
         )
 
-        time.sleep(5)
+        time.sleep(3)
 
         tabs = WebDriverWait(self, 45).until(ec.presence_of_all_elements_located((By.CLASS_NAME, 'v-tab')))
 
 
         for i in range(len(tabs)):
-            if tabs[i].text in ["All"]:
+            self.execute_script("arguments[0].scrollIntoView(true);", tabs[i])
+            time.sleep(0.025)
+            if tabs[i].text.strip() .lower() in \
+                    ["player scoring", "player combos", "player assists", "player rebounds"]:
                 self.execute_script("arguments[0].scrollIntoView(true);", tabs[i])
                 tabs[i].click()
                 self.execute_script("arguments[0].click()", tabs[i])

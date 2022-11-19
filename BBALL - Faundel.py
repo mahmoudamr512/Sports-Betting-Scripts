@@ -66,9 +66,14 @@ class NBAScraper(webdriver.Firefox):
         """
             Get all game links
         """
-        time.sleep(5)
-        parent_divs = self.find_elements(By.XPATH, '//div[@class="x h" and @style="flex-direction: column; overflow: hidden auto; display: flex; min-width: 0px;"]')
-
+        time.sleep(2)
+        parent_divs =  WebDriverWait(self, 15)\
+            .until(ec.visibility_of_all_elements_located(
+            (By.XPATH,
+             '//div[@style="flex-direction: column; overflow: hidden auto; display: flex; min-width: 0px;"]'
+             )
+        )
+        )
 
         target_div = None
         for div in parent_divs:
@@ -85,7 +90,6 @@ class NBAScraper(webdriver.Firefox):
                 pass
 
     def scrapTab(self, stats, tabDiv):
-        time.sleep(3)
 
         innerDivs = WebDriverWait(tabDiv, 30).until(ec.presence_of_all_elements_located((By.XPATH, "./div")))[1:]
         for i in range(len(innerDivs)):
@@ -98,16 +102,15 @@ class NBAScraper(webdriver.Firefox):
 
             if flag:
                 if i > 0:
-                    time.sleep(0.25)
                     self.execute_script("arguments[0].click();", innerDivs[i].find_element(By.XPATH,'.//div[@role="button"]'))
-                    time.sleep(3)
+                    time.sleep(1)
 
                 try:
                     show_more = self.find_element(By.XPATH, './/span[contains(text(), "' + 'Show more' + '")]')
                     self.execute_script("arguments[0].scrollIntoView(true);", show_more)
                     time.sleep(0.5)
                     self.execute_script("arguments[0].click();", show_more)
-                    time.sleep(2)
+                    time.sleep(0.5)
                 except:
                     pass
 
@@ -141,7 +144,7 @@ class NBAScraper(webdriver.Firefox):
                 self.execute_script("arguments[0].scrollIntoView(true);", tabs[i])
                 tabs[i].click()
                 print(tabs[i].text)
-                time.sleep(2.5)
+                time.sleep(0.5)
                 self.scrapTab(stats, self.find_elements(By.XPATH,'//*[@style="flex-direction: column; overflow: hidden auto; display: flex; min-width: 0px;"]')[1])
 
     def scrapGames(self, stats , startGame = 1, endGame= "all") -> None:
